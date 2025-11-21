@@ -1,0 +1,401 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\clases\\vehiculodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:clases\\vehiculodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\administrador\\gestionvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\administrador\\gestionvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\administrador\\gestionvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\administrador\\gestionvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\principales\\catalogocars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\principales\\catalogocars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\principales\\catalogocars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\principales\\catalogocars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\clases\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:clases\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|c:\\users\\ximena\\desktop\\autocare\\vehiculocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:vehiculocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\clases\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:clases\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\vehiculocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:vehiculocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\principales\\infovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\principales\\infovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\formventas\\formrealizarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\formventas\\formrealizarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\formventas\\formrealizarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\formventas\\formrealizarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\clases\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:clases\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\principales\\infovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\principales\\infovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\administrador\\homeusuario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\administrador\\homeusuario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\administrador\\homeusuario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\administrador\\homeusuario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\principales\\formservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\principales\\formservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\principales\\formservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\principales\\formservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\principales\\formhome1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\principales\\formhome1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\principales\\formhome1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\principales\\formhome1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\opcionales\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\opcionales\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\opcionales\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\opcionales\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\opcionales\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B03168-EB4A-4E08-A9AA-72F769A017A6}|AutoCare.csproj|solutionrelative:forms\\opcionales\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeUsuario1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\administrador\\HomeUsuario1.cs",
+              "RelativeDocumentMoniker": "forms\\administrador\\HomeUsuario1.cs",
+              "ToolTip": "C:\\Users\\dmazo\\OneDrive\\Escritorio\\AutoCare\\forms\\administrador\\HomeUsuario1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\dmazo\\OneDrive\\Escritorio\\AutoCare\\forms\\administrador\\HomeUsuario1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:47:57.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormServicio.cs",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\Principales\\FormServicio.cs",
+              "RelativeDocumentMoniker": "forms\\Principales\\FormServicio.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\Principales\\FormServicio.cs",
+              "RelativeToolTip": "forms\\Principales\\FormServicio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:44:51.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormServicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\Principales\\FormServicio.cs",
+              "RelativeDocumentMoniker": "forms\\Principales\\FormServicio.cs",
+              "ToolTip": "C:\\Users\\dmazo\\OneDrive\\Escritorio\\AutoCare\\forms\\Principales\\FormServicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\dmazo\\OneDrive\\Escritorio\\AutoCare\\forms\\Principales\\FormServicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:44:50.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatalogoCars.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\Principales\\CatalogoCars.cs",
+              "RelativeDocumentMoniker": "forms\\Principales\\CatalogoCars.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\Principales\\CatalogoCars.cs [Dise\u00F1o]",
+              "RelativeToolTip": "forms\\Principales\\CatalogoCars.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:51:55.878Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatalogoCars.cs",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\Principales\\CatalogoCars.cs",
+              "RelativeDocumentMoniker": "forms\\Principales\\CatalogoCars.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\Principales\\CatalogoCars.cs",
+              "RelativeToolTip": "forms\\Principales\\CatalogoCars.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwB8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:51:59.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehiculoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\Clases\\VehiculoDAO.cs",
+              "RelativeDocumentMoniker": "Clases\\VehiculoDAO.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\Clases\\VehiculoDAO.cs",
+              "RelativeToolTip": "Clases\\VehiculoDAO.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAcwPkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:49:26.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionVehiculos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\administrador\\GestionVehiculos.cs",
+              "RelativeDocumentMoniker": "forms\\administrador\\GestionVehiculos.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\administrador\\GestionVehiculos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "forms\\administrador\\GestionVehiculos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:12:58.348Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionVehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\administrador\\GestionVehiculos.cs",
+              "RelativeDocumentMoniker": "forms\\administrador\\GestionVehiculos.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\administrador\\GestionVehiculos.cs",
+              "RelativeToolTip": "forms\\administrador\\GestionVehiculos.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAUwDsBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:21:00.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeUsuario1.cs",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\administrador\\HomeUsuario1.cs",
+              "RelativeDocumentMoniker": "forms\\administrador\\HomeUsuario1.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\administrador\\HomeUsuario1.cs",
+              "RelativeToolTip": "forms\\administrador\\HomeUsuario1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCgAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:48:02.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConexionDb.cs",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\Clases\\ConexionDb.cs",
+              "RelativeDocumentMoniker": "Clases\\ConexionDb.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\Clases\\ConexionDb.cs",
+              "RelativeToolTip": "Clases\\ConexionDb.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:08:40.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VehiculoCard.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\VehiculoCard.cs",
+              "RelativeDocumentMoniker": "VehiculoCard.cs",
+              "ToolTip": "C:\\Users\\dmazo\\OneDrive\\Escritorio\\AutoCare\\VehiculoCard.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\dmazo\\OneDrive\\Escritorio\\AutoCare\\VehiculoCard.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:48:19.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehiculoCard.cs",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\VehiculoCard.cs",
+              "RelativeDocumentMoniker": "VehiculoCard.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\VehiculoCard.cs",
+              "RelativeToolTip": "VehiculoCard.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:48:23.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormHome1.cs",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\Principales\\FormHome1.cs",
+              "RelativeDocumentMoniker": "forms\\Principales\\FormHome1.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\Principales\\FormHome1.cs",
+              "RelativeToolTip": "forms\\Principales\\FormHome1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:44:37.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormHome1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\Principales\\FormHome1.cs",
+              "RelativeDocumentMoniker": "forms\\Principales\\FormHome1.cs",
+              "ToolTip": "C:\\Users\\dmazo\\OneDrive\\Escritorio\\AutoCare\\forms\\Principales\\FormHome1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\dmazo\\OneDrive\\Escritorio\\AutoCare\\forms\\Principales\\FormHome1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:44:36.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\Clases\\Vehiculos.cs",
+              "RelativeDocumentMoniker": "Clases\\Vehiculos.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\Clases\\Vehiculos.cs",
+              "RelativeToolTip": "Clases\\Vehiculos.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:25:35.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\Clases\\Cliente.cs",
+              "RelativeDocumentMoniker": "Clases\\Cliente.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\Clases\\Cliente.cs",
+              "RelativeToolTip": "Clases\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T01:52:45.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClienteDAO.cs",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\Clases\\ClienteDAO.cs",
+              "RelativeDocumentMoniker": "Clases\\ClienteDAO.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\Clases\\ClienteDAO.cs",
+              "RelativeToolTip": "Clases\\ClienteDAO.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T01:42:15.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "formRealizarVenta.cs",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\formVentas\\formRealizarVenta.cs",
+              "RelativeDocumentMoniker": "forms\\formVentas\\formRealizarVenta.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\formVentas\\formRealizarVenta.cs",
+              "RelativeToolTip": "forms\\formVentas\\formRealizarVenta.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAArwE8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T01:27:42.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "formRealizarVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\formVentas\\formRealizarVenta.cs",
+              "RelativeDocumentMoniker": "forms\\formVentas\\formRealizarVenta.cs",
+              "ToolTip": "C:\\Users\\dmazo\\OneDrive\\Escritorio\\AutoCare\\forms\\formVentas\\formRealizarVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\dmazo\\OneDrive\\Escritorio\\AutoCare\\forms\\formVentas\\formRealizarVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T01:18:47.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\opcionales\\Contacto.cs",
+              "RelativeDocumentMoniker": "forms\\opcionales\\Contacto.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\opcionales\\Contacto.cs",
+              "RelativeToolTip": "forms\\opcionales\\Contacto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:43:11.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Contacto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\opcionales\\Contacto.cs",
+              "RelativeDocumentMoniker": "forms\\opcionales\\Contacto.cs",
+              "ToolTip": "C:\\Users\\dmazo\\OneDrive\\Escritorio\\AutoCare\\forms\\opcionales\\Contacto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\dmazo\\OneDrive\\Escritorio\\AutoCare\\forms\\opcionales\\Contacto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:43:09.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "plantilla.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\opcionales\\plantilla.cs",
+              "RelativeDocumentMoniker": "forms\\opcionales\\plantilla.cs",
+              "ToolTip": "C:\\Users\\dmazo\\OneDrive\\Escritorio\\AutoCare\\forms\\opcionales\\plantilla.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\dmazo\\OneDrive\\Escritorio\\AutoCare\\forms\\opcionales\\plantilla.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:24:24.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InfoVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\Principales\\InfoVehiculo.cs",
+              "RelativeDocumentMoniker": "forms\\Principales\\InfoVehiculo.cs",
+              "ToolTip": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\Principales\\InfoVehiculo.cs",
+              "RelativeToolTip": "forms\\Principales\\InfoVehiculo.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAYwHoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:17:25.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InfoVehiculo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\XIMENA\\Desktop\\AutoCare\\forms\\Principales\\InfoVehiculo.cs",
+              "RelativeDocumentMoniker": "forms\\Principales\\InfoVehiculo.cs",
+              "ToolTip": "C:\\Users\\dmazo\\OneDrive\\Escritorio\\AutoCare\\forms\\Principales\\InfoVehiculo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\dmazo\\OneDrive\\Escritorio\\AutoCare\\forms\\Principales\\InfoVehiculo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:15:55.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
